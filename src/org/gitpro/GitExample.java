@@ -20,6 +20,8 @@ public static void main(String[] args) {
 		m.put("srh",400);
 		m.put("rr",500);
 		m.put("mi",600);
+		m.put("gt",700);
+		m.put("lsg",800);
 		
 		//to print all the key and values in map
 		System.out.println(m);
