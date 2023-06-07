@@ -20,8 +20,14 @@ public static void main(String[] args) {
 		m.put("srh",400);
 		m.put("rr",500);
 		m.put("mi",600);
+//<<<<<<< HEAD
+		m.put("ind", 899);
+		m.put("aus",877);
+		
+//=======
 		m.put("gt",700);
 		m.put("lsg",800);
+//>>>>>>> 5bb546ff8f251a2ff25437e1cc45d6ce107e5d49
 		
 		//to print all the key and values in map
 		System.out.println(m);
